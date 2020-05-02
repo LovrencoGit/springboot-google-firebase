@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chattest-cd3fc",
+  "private_key_id": "6d9ed20383471eguyg8g9g09h0h0j75ede1b9547d614ea72139af52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHwk3olllPzj6AVuiGTFR6anYq0JD2jL450VF3sbUin1jiw1yvOwFS4JaML4\nrEDhdom5Vx6ZVQCvuSnZFcvntYvA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fuzr65678987@chattest-cd3fc.iam.gserviceaccount.com",
+  "client_id": "1074363853254301171098456789098765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fuzr6%40chattest-cd3fc.iam.gserviceaccount.com"
+}
